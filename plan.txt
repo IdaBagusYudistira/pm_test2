@@ -1,3 +1,5 @@
 Community Policing
 
 a system about making sure any bad behaviours are taken into action.
+
+currently practicing Git!
